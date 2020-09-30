@@ -4,6 +4,6 @@
 
 I'm a WordPress developer. I create freemium stuff for WordPress over at [@Codestag](https://codestag.com) and [@AnalogWP](https://analogwp.com).
 
-- 🔭 &nbsp;I’m currently working on a WordPress plugin that will make scheduling meeting/appointments easy.
+- 🔭 &nbsp;I’m currently working on a secret project, which happens to be my first non-WordPress project
 - 💬 &nbsp;Ask me about PHP, WordPress, JavaScript, React.js
 - 📫 &nbsp;How to reach me: Twitter [@mauryaratan](https://twitter.com/mauryaratan/)
